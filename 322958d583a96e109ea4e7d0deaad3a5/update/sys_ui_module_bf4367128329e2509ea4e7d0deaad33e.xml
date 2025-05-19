@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="AAA">7b4367128329e2509ea4e7d0deaad33b</application>
+        <filter/>
+        <name>AAAs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1755581_needit_s.aaa_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 02:43:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf4367128329e2509ea4e7d0deaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AAAs</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_1755581_needit_s">322958d583a96e109ea4e7d0deaad3a5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">322958d583a96e109ea4e7d0deaad3a5</sys_scope>
+        <sys_update_name>sys_ui_module_bf4367128329e2509ea4e7d0deaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 02:43:37</sys_updated_on>
+        <table>x_1755581_needit_s_aaa</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
